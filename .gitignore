@@ -150,4 +150,4 @@ local.properties
 
 ###ipynb###
 
-.ipynb_checkpoints/
+titanic_survival_exploration/.ipynb_checkpoints/
