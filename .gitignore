@@ -147,3 +147,7 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+
+###ipynb###
+
+.ipynb_checkpoints/
