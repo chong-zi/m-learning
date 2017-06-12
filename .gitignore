@@ -151,3 +151,7 @@ local.properties
 ###ipynb###
 
 /titanic_survival_exploration/.ipynb_checkpoints/
+
+
+###Mac####
+.DS_Store
